@@ -1,0 +1,10 @@
+.button-blue {
+	background-color: rgb(55, 55, 55);
+	padding: 20px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Roboto', sans-serif;
+	align-items: center;
+	justify-content: center;
+}
